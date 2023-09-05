@@ -10,7 +10,7 @@ This package implements algorithms for covering and packing problems. The main g
 Covering / Packing problems are linear programming / integer programming problems with non-negative inputs. A general covering problem has the form
 
 $$
-\begin{aling}
+\begin{align}
 \min c^T &x \\
 \text{s.t. } A&x \geq b \\
     B&x \leq f \\
