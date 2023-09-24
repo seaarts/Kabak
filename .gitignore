@@ -165,3 +165,8 @@ cython_debug/
 # VS-code
 .vscode/
 .DS_Store
+
+
+# Packages not yet ready to ship
+algos/covering/strengthenedLinear.py
+algos/covering/setCover
