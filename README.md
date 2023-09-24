@@ -1,7 +1,13 @@
 # Kabak
 Algorithms for covering and packing problems.
 
-_Kabak_ is a phonetic pormantau of _cover_ and _pack_. It means a pub in Russian.
+_Kabak_ is a phonetic pormantau of _cover_ and _pack_. It also means a pub in Russian, apparently.
+
+<p align="left">
+<a href="https://black.readthedocs.io/en/stable/the_black_code_style/current_style.html"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
+<a href="https://github.com/seaarts/Kabak/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+</p>
+
 
 ## Overview
 This package implements algorithms for covering and packing problems. The main goal is to implement approximation algorithms, heuristics, and other structure-exploiting special algorithms that are not available elsewhere.
